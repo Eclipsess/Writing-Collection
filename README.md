@@ -17,7 +17,7 @@
 - 连接xx和xx: bridge the gap between xx and xx
 - xx对xx起作用，负责: are accountable for xx
 - 启发xx: shed light on
-- ,the key idea underlying xx,
+- 第二句核心idea: the key idea underlying xx, the locus of xx 的核心
 - 很少被用到: are less used in 
 - 省略掉: leave out xx in this survey.
 - 基础的: fundamental, underlying, potential
@@ -32,7 +32,8 @@
 - xx中缺少的：that are absent in xx; is still lacking.
 - 总结常用: in general, outlines xx; In effect; 
 - 在某方面 关于: in context of 在xx的环境下; in terms of ;in the scenario of ;towards; with respect to
-- 大程度: significantly
+- 到达某种程度: to some degree
+- 大程度: significantly; 
 - 小程度: with a minor increase of 
 - 增强，提高: boost
 - 全体 总效果: an ensemble of 
@@ -41,4 +42,4 @@
 - 自然的: canonical samples
 - 可以说，强调值得注意的是: It's worth noting that 
 - 归结于: be unified in the framework of 
-
+- 用: take advantage of; make use of; get the most out of
