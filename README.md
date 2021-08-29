@@ -1,12 +1,7 @@
-- 因为:
-  - because
-  - as
-  - since
+- 因为: because, as, since
   - 接词: due to, because of 
-- 所以
-  - hence
-  - thus
-  - therefore
+  - we postulate the reason is that xxx
+- 所以: hence, thus, therefore
 - use: follow
 - 处理: deal with, handle, tackle
 - 不同的: varying, various types of, 
@@ -38,21 +33,8 @@
    - partition .. into
    - divide .. into
  
-- 执行:
-   - perform
-   - conduct
-   - employ
-   - exploit
-   - implement
-   - utilize
-   - adopt
-- 证明
-   - show
-   - prove
-   - justify
-   - exhibit
-   - demonstrate
-   - illustrate
+- 执行: perform, conduct, employ, exploit, implement, utilize, adopt
+- 证明: show, prove, justify, exhibit, demonstrate, illustrate
     
 - 总结：
     - in effect
