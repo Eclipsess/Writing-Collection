@@ -59,6 +59,7 @@
     - in terms of 
     - in the scenario of 
     - towards
+    - with respect to
 - 大程度:
     - significantly
 
