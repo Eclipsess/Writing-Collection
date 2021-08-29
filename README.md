@@ -1,13 +1,15 @@
 - 因为:
   - because
-  - therefore
-  - thus
   - as
   - since
   - 接词: due to, because of 
+- 所以
+  - hence
+  - thus
+  - therefore
 - use: follow
 - 处理: deal with, handle, tackle
--不同的: varying, various types of, 
+- 不同的: varying, various types of, 
 - 适合: compatible with 
 - 受益于, 得到好处: benefit from,
 - 在什么领域: in the field of 
@@ -22,7 +24,7 @@
 - ,the key idea underlying xx,
 - 很少被用到: are less used in 
 - 省略掉: leave out xx in this survey.
-- 基础的: fundamental, underlying, 
+- 基础的: fundamental, underlying, potential
 
 - 尽管: despite + 词, 
 
@@ -39,7 +41,19 @@
 - 执行:
    - perform
    - conduct
-
+   - employ
+   - exploit
+   - implement
+   - utilize
+   - adopt
+- 证明
+   - show
+   - prove
+   - justify
+   - exhibit
+   - demonstrate
+   - illustrate
+    
 - 总结：
     - in effect
 
@@ -85,3 +99,4 @@
 
 - 可以说，强调值得注意的是: It's worth noting that 
 - 归结于: be unified in the framework of 
+
