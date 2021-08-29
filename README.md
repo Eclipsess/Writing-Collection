@@ -72,11 +72,7 @@
 - 按需求分配:
     - allocate xx on demand 在什么时候(at test time) (allocate computations on demand at test time. --Dynamic Neural Survey.)
 
-- 接下来, 连接词:
-    - Consequently, 
-    - Furthermore, 
-    - In addition to
-    - 
+- 接下来, 连接词: Consequently,  Furthermore,  In addition to, Moreover, Besides, Specifically, In particular
 - 自然的: canonical samples
 
 - 可以说，强调值得注意的是: It's worth noting that 
