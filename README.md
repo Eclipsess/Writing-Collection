@@ -21,62 +21,24 @@
 - 很少被用到: are less used in 
 - 省略掉: leave out xx in this survey.
 - 基础的: fundamental, underlying, potential
-
 - 尽管: despite + 词, 
-
-- 同时: 有道词典有
-   - in parallel
-   - simultaniously
-   - concurrently
-   - in the meanwhile
- 
-- 分组
-   - partition .. into
-   - divide .. into
- 
+- 同时: 有道词典有 in parallel; simultaniously; concurrently; in the meanwhile
+- 分组: partition .. into; divide .. into
 - 执行: perform, conduct, employ, exploit, implement, utilize, adopt
 - 证明: show, prove, justify, exhibit, demonstrate, illustrate
-    
-- 总结：
-    - in effect
-
-- 随后的:
-    - ensuing
-- 相反的:
-    - ,as opposed to adj ones, 
-- 适应 调整
-    - adpat xx to xx， 使xx适应xx，调整xx适应xx
-- xx中缺少的：
-    - that are absent in xx
-    - is still lacking.
-
-- 总结常用: 
-    - in general, 
-    - outlines xx.
-
-- 在某方面 关于:
-    - in context of 在xx的环境下
-    - in terms of 
-    - in the scenario of 
-    - towards
-    - with respect to
-- 大程度:
-    - significantly
-
-- 小程度:
-    - with a minor increase of 
-
-- 增强，提高:
-    - boost
-- 全体 总效果:
-    an ensemble of 
-
-- 按需求分配:
-    - allocate xx on demand 在什么时候(at test time) (allocate computations on demand at test time. --Dynamic Neural Survey.)
-
+- 随后的: ensuing
+- 相反的: ,as opposed to adj ones, 
+- 适应 调整 adpat xx to xx， 使xx适应xx，调整xx适应xx
+- xx中缺少的：that are absent in xx; is still lacking.
+- 总结常用: in general, outlines xx; In effect; 
+- 在某方面 关于: in context of 在xx的环境下; in terms of ;in the scenario of ;towards; with respect to
+- 大程度: significantly
+- 小程度: with a minor increase of 
+- 增强，提高: boost
+- 全体 总效果: an ensemble of 
+- 按需求分配: allocate xx on demand 在什么时候(at test time) (allocate computations on demand at test time. --Dynamic Neural Survey.)
 - 接下来, 连接词: Consequently,  Furthermore,  In addition to, Moreover, Besides, Specifically, In particular
 - 自然的: canonical samples
-
 - 可以说，强调值得注意的是: It's worth noting that 
 - 归结于: be unified in the framework of 
 
