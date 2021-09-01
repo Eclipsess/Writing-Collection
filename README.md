@@ -6,6 +6,7 @@
 - denote; refer to .. as;
 - assign weights to edges.
 - 加入，附属, add: xx be augemented with xx.
+- 实现了: achieve; provides a feasible path to xx; 
 - use: follow
 - 大量的: exponential number of; 
 - 处理: deal with, handle, tackle
@@ -47,5 +48,5 @@
 - 可以说，强调值得注意的是: It's worth noting that 
 - 归结于: be unified in the framework of 
 - 用: take advantage of; make use of; get the most out of; capitalize on, use sth to your advantage, make full use of, exploit, utilize, use, enjoy sth fully, enjoy sth to the full, turn sth to profit, turn sth to use.
-- 结果: promising results; 
+- 结果: promising results; enable great improvement; 
 - 
