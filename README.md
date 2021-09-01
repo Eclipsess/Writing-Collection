@@ -6,6 +6,7 @@
 - denote; refer to .. as;
 - assign weights to edges.
 - use: follow
+- 大量的: exponential number of; 
 - 处理: deal with, handle, tackle
 - 不同的: varying, various types of, 
 - 适合: compatible with 
