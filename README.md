@@ -29,7 +29,7 @@
 - 尽管: despite + 词, 
 - 同时: 有道词典有 in parallel; simultaniously; concurrently; in the meanwhile
 - 分组: partition .. into; divide .. into
-- 执行: perform, conduct, employ, exploit, implement, utilize, adopt
+- 执行: perform, conduct, employ, exploit, implement, utilize, adopt, BP is a decoding method which proceeds in iterations of message passing.
 - 证明: show, prove, justify, exhibit, demonstrate, illustrate
 - 随后的: ensuing
 - 相反的: ,as opposed to adj ones, 
