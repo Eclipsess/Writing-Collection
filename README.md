@@ -3,14 +3,14 @@
   - we postulate the reason is that xxx
 - 所以: hence, thus, therefore
 - 第二句开头: This leads to; This brings(takes) us to..; This results in ..; It follows that; [一方面 另一方面](https://www.zhihu.com/question/336192348)
-- denote; refer to .. as;
+- denote; refer to .. as xx; be referred to as xx; 
 - place on / assign weights to edges.
 - mitigate the detrimental effect of cycles in the code structure.
 - 加入，附属, add: xx be augemented with xx.
 - 实现了: achieve; provides a feasible path to xx; 
 - that of ?
 - prevents efficient implementation of these decoders in complexity-critical frameworks.
-- use: follow
+- use: follow;
 - 大量的: exponential number of; 
 - 处理: deal with, handle, tackle
 - 不同的: varying, various types of, 
@@ -51,5 +51,5 @@
 - 可以说，强调值得注意的是: It's worth noting that 
 - 归结于: be unified in the framework of 
 - 用: take advantage of; make use of; get the most out of; capitalize on, use sth to your advantage, make full use of, exploit, utilize, use, enjoy sth fully, enjoy sth to the full, turn sth to profit, turn sth to use.
-- 结果: promising results; enable great improvement; 
-- 
+- 结果: promising results; enable great improvement; causes non-negligible degradation in xx(BER); yield error-correction performance close to that of SPA decoding; bring the performace of BP closer to xx; 
+- which is: is equivalent to xx.
