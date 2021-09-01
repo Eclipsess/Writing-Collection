@@ -4,9 +4,12 @@
 - 所以: hence, thus, therefore
 - 第二句开头: This leads to; This brings(takes) us to..; This results in ..; It follows that; [一方面 另一方面](https://www.zhihu.com/question/336192348)
 - denote; refer to .. as;
-- assign weights to edges.
+- place on / assign weights to edges.
+- mitigate the detrimental effect of cycles in the code structure.
 - 加入，附属, add: xx be augemented with xx.
 - 实现了: achieve; provides a feasible path to xx; 
+- that of ?
+- prevents efficient implementation of these decoders in complexity-critical frameworks.
 - use: follow
 - 大量的: exponential number of; 
 - 处理: deal with, handle, tackle
