@@ -4,6 +4,7 @@
 - 所以: hence, thus, therefore
 - 第二句开头: This leads to; This brings(takes) us to..; This results in ..; It follows that; [一方面 另一方面](https://www.zhihu.com/question/336192348)
 - denote; refer to .. as;
+- assign weights to edges.
 - use: follow
 - 处理: deal with, handle, tackle
 - 不同的: varying, various types of, 
