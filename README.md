@@ -55,6 +55,7 @@
 - 结果: promising results; enable great improvement; causes non-negligible degradation in xx(BER); yield error-correction performance close to that of SPA decoding; bring the performace of BP closer to xx; 
 - which is: is equivalent to xx.
 - 举例: One such example is xx.
+- 引入方法: by casting xx challenge as a xx problem, we essentially need xx to learn xx. 
 
 
 
