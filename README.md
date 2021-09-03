@@ -2,6 +2,8 @@
   - 接词: due to, because of 
   - we postulate the reason is that xxx
 - 所以: hence, thus, therefore
+- 连词: Indeed, 
+- ispire; motivate; is reminiscent of(The iterative structure of this algorithm is reminiscent of a neural network with multiple layers.). 继承: inherit
 - 第二句开头: This leads to; This brings(takes) us to..; This results in ..; It follows that; [一方面 另一方面](https://www.zhihu.com/question/336192348)
 - denote; refer to .. as xx; be referred to as xx; 
 - place on / assign weights to edges.
@@ -13,11 +15,10 @@
 - use: follow;
 - 大量的: exponential number of; 
 - 处理: deal with, handle, tackle
-- 不同的: varying, various types of, 
+- 不同的: varying, various types of, a variety of, 
 - 适合: compatible with 
 - 受益于, 得到好处: benefit from,
 - 在什么领域: in the field of 
-- 继承: inherit
 - 替代: As a substitute for xx, many xx
 - 很顺利的用到别的地方: be applied seamlessly to a wide range of 
 - 发现，认识，注意到: note that, 
