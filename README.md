@@ -2,7 +2,8 @@
   - 接词: due to, because of 
   - we postulate the reason is that xxx
 - 所以: hence, thus, therefore
-- 连词: Indeed, 
+- 转折: Nevertheless, 
+- 连词: Indeed, Besides, Consequently, 
 - ispire; motivate; is reminiscent of(The iterative structure of this algorithm is reminiscent of a neural network with multiple layers.). 继承: inherit
 - 第二句开头: This leads to; This brings(takes) us to..; This results in ..; It follows that; [一方面 另一方面](https://www.zhihu.com/question/336192348)
 - denote; refer to .. as xx; be referred to as xx; 
@@ -13,7 +14,7 @@
 - that of ?
 - prevents efficient implementation of these decoders in complexity-critical frameworks.
 - use: follow;
-- 大量的: exponential number of; 
+- 大量的: exponential number/increase of; 
 - 处理: deal with, handle, tackle
 - 不同的: varying, various types of, a variety of, 
 - 适合: compatible with 
@@ -51,11 +52,14 @@
 - 自然的: canonical samples
 - 可以说，强调值得注意的是: It's worth noting that 
 - 归结于: be unified in the framework of 
-- 用: take advantage of; make use of; get the most out of; capitalize on, use sth to your advantage, make full use of, exploit, utilize, use, enjoy sth fully, enjoy sth to the full, turn sth to profit, turn sth to use.
+- 用: take advantage of; make use of; get the most out of; capitalize on, use sth to your advantage, make full use of, exploit, utilize, use, enjoy sth fully, enjoy sth to the full, turn sth to profit, turn sth to use; xx take into acount xx.
 - 结果: promising results; enable great improvement; causes non-negligible degradation in xx(BER); yield error-correction performance close to that of SPA decoding; bring the performace of BP closer to xx; 
 - which is: is equivalent to xx.
 - 举例: One such example is xx.
 - 引入方法: by casting xx challenge as a xx problem, we essentially need xx to learn xx. 
+
+
+- about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs.
 
 
 
