@@ -14,7 +14,7 @@
 - that of ?
 - prevents efficient implementation of these decoders in complexity-critical frameworks.
 - use: follow;
-- 大量的: exponential number/increase of; 
+- 大量的number相关: exponential number/increase of; the number of xx is roughly twice the number of xx.
 - 处理: deal with, handle, tackle
 - 不同的: varying, various types of, a variety of, 
 - 适合: compatible with 
@@ -37,7 +37,7 @@
 - 执行: perform, conduct, employ, exploit, implement, utilize, adopt, BP is a decoding method which proceeds in iterations of message passing.
 - 证明: show, prove, justify, exhibit, demonstrate, illustrate
 - 随后的: ensuing
-- 相反的: ,as opposed to adj ones, 
+- 相反的: ,as opposed to adj ones, in contrast to; On the contrary; By contrast,
 - 适应 调整 adpat xx to xx， 使xx适应xx，调整xx适应xx
 - xx中缺少的：that are absent in xx; is still lacking.
 - 总结常用: in general, outlines xx; In effect; 
@@ -52,14 +52,15 @@
 - 自然的: canonical samples
 - 可以说，强调值得注意的是: It's worth noting that 
 - 归结于: be unified in the framework of 
-- 用: take advantage of; make use of; get the most out of; capitalize on, use sth to your advantage, make full use of, exploit, utilize, use, enjoy sth fully, enjoy sth to the full, turn sth to profit, turn sth to use; xx take into acount xx.
+- 用: take advantage of; make use of; get the most out of; capitalize on, use sth to your advantage, make full use of, exploit, utilize, use, enjoy sth fully, enjoy sth to the full, turn sth to profit, turn sth to use; xx take into acount xx; interpreted as;
 - 结果: promising results; enable great improvement; causes non-negligible degradation in xx(BER); yield error-correction performance close to that of SPA decoding; bring the performace of BP closer to xx; 
 - which is: is equivalent to xx.
 - 举例: One such example is xx.
 - 引入方法: by casting xx challenge as a xx problem, we essentially need xx to learn xx. 
 
 
-- about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs.
+- about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs;
+- inferred codeword
 
 
 
