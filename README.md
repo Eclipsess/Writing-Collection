@@ -10,11 +10,11 @@
 - place on / assign weights to edges.
 - mitigate the detrimental effect of cycles in the code structure.
 - 加入，附属, add: xx be augemented with xx.
-- 实现了: achieve; provides a feasible path to xx; 
+- 实现了(好性能): achieve; provides a feasible path to xx; stellar performance; 
 - that of ?
 - prevents efficient implementation of these decoders in complexity-critical frameworks.
 - use: follow;
-- 大量的number相关: exponential number/increase of; the number of xx is roughly twice the number of xx.
+- 大量的number相关: exponential number/increase of; the number of xx is roughly twice the number of xx; astronomical amounts of weights; 
 - 处理: deal with, handle, tackle
 - 不同的: varying, various types of, a variety of, 
 - 适合: compatible with 
