@@ -41,7 +41,7 @@
 - 适应 调整 adpat xx to xx， 使xx适应xx，调整xx适应xx
 - xx中缺少的：that are absent in xx; is still lacking.
 - 总结常用: in general, outlines xx; In effect; 
-- 在某方面 关于: in context of 在xx的环境下; in terms of ;in the scenario of ;towards; with respect to
+- 在某方面 关于: in context of 在xx的环境下; in terms of ;in the scenario of ;towards; with respect to; is a method that revolves around the intuitive idea of xx; 
 - 到达某种程度: to some degree
 - 大程度: significantly; 
 - 小程度: with a minor increase of 
