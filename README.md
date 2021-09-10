@@ -57,6 +57,7 @@
 - which is: is equivalent to xx.
 - 举例: One such example is xx.
 - 引入方法: by casting xx challenge as a xx problem, we essentially need xx to learn xx. 
+- 多余的: superfluous; redundant; 
 
 
 - about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs;
