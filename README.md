@@ -58,7 +58,8 @@
 - 举例: One such example is xx.
 - 引入方法: by casting xx challenge as a xx problem, we essentially need xx to learn xx. 
 - 多余的: superfluous; redundant; 
-
+专业名词：
+- 高计算量和存储: high computational and memory costs
 
 - about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs;
 - inferred codeword
