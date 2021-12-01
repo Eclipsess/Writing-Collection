@@ -58,6 +58,9 @@
 - 举例: One such example is xx.
 - 引入方法: by casting xx challenge as a xx problem, we essentially need xx to learn xx. 
 - 多余的: superfluous; redundant; 
+- 普遍性，大众化，广泛使用: democratization
+- 取决于 hinge on/upon
+- Thus, the democratization of deep learning hinges on the development of efficient DNNs. 普及deep learning依赖/需要efficient DNNs。
 专业名词：
 - 高计算量和存储: high computational and memory costs
 
