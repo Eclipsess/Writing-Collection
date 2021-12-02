@@ -1,7 +1,7 @@
 - 因为: because, as, since
   - 接词: due to, because of 
   - we postulate the reason is that xxx
-- 所以: hence, thus, therefore
+- 所以: hence, thus, therefore，As a consequence
 - 转折: Nevertheless, 
 - 连词: Indeed, Besides, Consequently, 
 - ispire; motivate; is reminiscent of(The iterative structure of this algorithm is reminiscent of a neural network with multiple layers.). 继承: inherit
@@ -55,7 +55,7 @@
 - 用: take advantage of; make use of; get the most out of; capitalize on, use sth to your advantage, make full use of, exploit, utilize, use, enjoy sth fully, enjoy sth to the full, turn sth to profit, turn sth to use; xx take into acount xx; interpreted as;
 - 结果: promising results; enable great improvement; causes non-negligible degradation in xx(BER); yield error-correction performance close to that of SPA decoding; bring the performace of BP closer to xx; 
 - which is: is equivalent to xx.
-- 举例: One such example is xx.
+- 举例: One such example is xx. As exemplified by xxx
 - 引入方法: by casting xx challenge as a xx problem, we essentially need xx to learn xx. 
 - 多余的: superfluous; redundant; 
 - 普遍性，大众化，广泛使用: democratization
@@ -63,6 +63,7 @@
 - Thus, the democratization of deep learning hinges on the development of efficient DNNs. 普及deep learning依赖/需要efficient DNNs。
 专业名词：
 - 高计算量和存储: high computational and memory costs
+- lighten DNNs
 
 - about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs;
 - inferred codeword
