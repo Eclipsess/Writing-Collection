@@ -64,6 +64,7 @@
 专业名词：
 - 高计算量和存储: high computational and memory costs
 - lighten DNNs
+- 叙述目标，阐述了 aims at/to; set out to; presents; provides; 
 
 - about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs;
 - inferred codeword
