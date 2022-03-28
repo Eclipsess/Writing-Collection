@@ -4,7 +4,7 @@
 - 所以: hence, thus, therefore，As a consequence
 - 转折: Nevertheless, 
 - 连词: Indeed, Besides, Consequently, 
-- ispire; motivate; is reminiscent of(The iterative structure of this algorithm is reminiscent of a neural network with multiple layers.). 继承: inherit
+- inspire; motivate; is reminiscent of(The iterative structure of this algorithm is reminiscent of a neural network with multiple layers.). 继承: inherit
 - 第二句开头: This leads to; This brings(takes) us to..; This results in ..; It follows that; [一方面 另一方面](https://www.zhihu.com/question/336192348)
 - denote; refer to .. as xx; be referred to as xx; 
 - place on / assign weights to edges.
@@ -64,7 +64,7 @@
 专业名词：
 - 高计算量和存储: high computational and memory costs
 - lighten DNNs
-- 叙述目标，阐述了 aims at/to; set out to; presents; provides; 
+- 叙述目标，阐述了 aims at/to; set out to; presents; provides; attempt to; 
 
 - about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs;
 - inferred codeword
