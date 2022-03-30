@@ -6,7 +6,7 @@
 - 连词: Indeed, Besides, Consequently, 
 - inspire; motivate; is reminiscent of(The iterative structure of this algorithm is reminiscent of a neural network with multiple layers.). 继承: inherit
 - 第二句开头: This leads to; This brings(takes) us to..; This results in ..; It follows that; [一方面 另一方面](https://www.zhihu.com/question/336192348)
-- denote; refer to .. as xx; be referred to as xx; 
+- 表示: represent; indicate; denote; refer to .. as xx; be referred to as xx; 
 - place on / assign weights to edges.
 - mitigate the detrimental effect of cycles in the code structure.
 - 加入，附属, add: xx be augemented with xx.
@@ -61,10 +61,15 @@
 - 普遍性，大众化，广泛使用: democratization
 - 取决于 hinge on/upon
 - Thus, the democratization of deep learning hinges on the development of efficient DNNs. 普及deep learning依赖/需要efficient DNNs。
+- 叙述目标，阐述了 aims at/to; set out to; presents; provides; attempt to; 
+- 又称为: dubbed; known as; 
+
+
+
 专业名词：
 - 高计算量和存储: high computational and memory costs
 - lighten DNNs
-- 叙述目标，阐述了 aims at/to; set out to; presents; provides; attempt to; 
+- quadratic unconstrained binary optimization problem
 
 - about ldpc: certain messages are iteratively sent along the egdes between VNs and CNs;
 - inferred codeword
