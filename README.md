@@ -63,6 +63,7 @@
 - Thus, the democratization of deep learning hinges on the development of efficient DNNs. 普及deep learning依赖/需要efficient DNNs。
 - 叙述目标，阐述了 aims at/to; set out to; presents; provides; attempt to; 
 - 又称为: dubbed; known as; 
+- 缺点: fall short
 
 
 
